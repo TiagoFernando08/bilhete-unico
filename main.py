@@ -2,7 +2,7 @@ from funcoes import *
 
 
 print("=========================")
-print("bem vido ao trafegopago")
+print("bem vido ao transparaty")
 print("=========================")
 
 
